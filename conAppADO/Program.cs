@@ -11,7 +11,8 @@ using System.Data.SqlClient;
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello, World!");
-            ReadTeacher();
+            //ReadTeacher();
+            AddTeacher();
             Console.ReadLine();
         }
 
@@ -33,6 +34,45 @@ using System.Data.SqlClient;
             }
 
             conn.Close();
+        }
+
+        public static void AddTeacher()
+        {
+            string strconn = "Server=.;Database=SchoolDB;User ID=mufg;Password=P2ssw0rd!@#;MultipleActiveResultSets=True;" ;
+            string strSql = "INSERT INTO [dbo].[Teacher] " +
+           "([TeacherName] " +
+           ",[StandardId] " +
+           ",[TeacherType]) " +
+     "VALUES " +
+           "(@TeacherName " +
+           ",@StandardId " +
+           ",@TeacherType)";
+           SqlConnection conn = new SqlConnection(strconn);
+            SqlCommand command = new SqlCommand(strSql,conn);
+            conn.Open();
+
+            IDbDataParameter parameter = command.CreateParameter();
+                parameter.ParameterName = "@TeacherName";
+                parameter.DbType = DbType.String;
+                parameter.Value = "Chan";
+                command.Parameters.Add(parameter);
+
+            parameter = command.CreateParameter();
+                parameter.ParameterName = "@StandardId ";
+                parameter.DbType = DbType.Int64;
+                parameter.Value = 1;
+                command.Parameters.Add(parameter);
+
+            parameter = command.CreateParameter();
+                parameter.ParameterName = "@TeacherType";
+                parameter.DbType = DbType.Int64;
+                parameter.Value = 1;
+                command.Parameters.Add(parameter);
+
+            command.ExecuteNonQuery();
+            
+            conn.Close();
+
         }
     }
 }
