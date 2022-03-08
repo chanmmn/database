@@ -1,0 +1,6 @@
+C:\test\other\ConsAppSQLCLR\ConsAppSQLCLR\obj\Debug\ConsAppSQLCLR.csproj.CoreCompileInputs.cache
+C:\test\other\ConsAppSQLCLR\ConsAppSQLCLR\bin\Debug\ConsAppSQLCLR.dll.config
+C:\test\other\ConsAppSQLCLR\ConsAppSQLCLR\bin\Debug\ConsAppSQLCLR.dll
+C:\test\other\ConsAppSQLCLR\ConsAppSQLCLR\bin\Debug\ConsAppSQLCLR.pdb
+C:\test\other\ConsAppSQLCLR\ConsAppSQLCLR\obj\Debug\ConsAppSQLCLR.dll
+C:\test\other\ConsAppSQLCLR\ConsAppSQLCLR\obj\Debug\ConsAppSQLCLR.pdb
