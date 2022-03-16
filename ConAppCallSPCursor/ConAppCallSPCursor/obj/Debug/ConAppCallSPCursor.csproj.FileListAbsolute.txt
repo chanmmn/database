@@ -1,0 +1,7 @@
+D:\test\other\ConAppCallSPCursor\ConAppCallSPCursor\obj\Debug\ConAppCallSPCursor.csproj.AssemblyReference.cache
+D:\test\other\ConAppCallSPCursor\ConAppCallSPCursor\obj\Debug\ConAppCallSPCursor.csproj.CoreCompileInputs.cache
+D:\test\other\ConAppCallSPCursor\ConAppCallSPCursor\bin\Debug\ConAppCallSPCursor.exe.config
+D:\test\other\ConAppCallSPCursor\ConAppCallSPCursor\bin\Debug\ConAppCallSPCursor.exe
+D:\test\other\ConAppCallSPCursor\ConAppCallSPCursor\bin\Debug\ConAppCallSPCursor.pdb
+D:\test\other\ConAppCallSPCursor\ConAppCallSPCursor\obj\Debug\ConAppCallSPCursor.exe
+D:\test\other\ConAppCallSPCursor\ConAppCallSPCursor\obj\Debug\ConAppCallSPCursor.pdb
