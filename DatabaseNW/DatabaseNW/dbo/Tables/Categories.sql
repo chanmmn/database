@@ -3,7 +3,6 @@
     [CategoryName] NVARCHAR (15) NOT NULL,
     [Description]  NTEXT         NULL,
     [Picture]      IMAGE         NULL,
-    [CategoryLongName] NVARCHAR(50) NULL, 
     CONSTRAINT [PK_Categories] PRIMARY KEY CLUSTERED ([CategoryID] ASC)
 );
 

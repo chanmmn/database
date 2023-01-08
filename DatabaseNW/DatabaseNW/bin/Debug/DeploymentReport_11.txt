@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Categories].[CategoryLongName] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[Categories] (Table)
+
+** Supporting actions
+     Refresh
+       [dbo].[Alphabetical list of products] (View)
+       [dbo].[Product Sales for 1997] (View)
+       [dbo].[Products by Category] (View)
+       [dbo].[Sales by Category] (View)
+       [dbo].[Category Sales for 1997] (View)
+       [dbo].[SalesByCategory] (Procedure)
+
+The column [dbo].[Categories].[CategoryLongName] is being dropped, data loss could occur.
+

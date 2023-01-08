@@ -8,3 +8,9 @@ D:\test\other\Training\DatabaseNW\DatabaseNW\obj\Debug\postdeploy.sql
 D:\test\other\Training\DatabaseNW\DatabaseNW\obj\Debug\predeploy.sql
 D:\test\other\Training\DatabaseNW\DatabaseNW\obj\Debug\DatabaseNW.dll
 D:\test\other\Training\DatabaseNW\DatabaseNW\obj\Debug\DatabaseNW.pdb
+D:\git\DatabaseNW\DatabaseNW\bin\Debug\DatabaseNW.dacpac
+D:\git\DatabaseNW\DatabaseNW\bin\Debug\DatabaseNW.dll
+D:\git\DatabaseNW\DatabaseNW\bin\Debug\DatabaseNW.pdb
+D:\git\DatabaseNW\DatabaseNW\obj\Debug\DatabaseNW.dll
+D:\git\DatabaseNW\DatabaseNW\obj\Debug\DatabaseNW.pdb
+D:\git\DatabaseNW\DatabaseNW\obj\Debug\DatabaseNW.sqlproj.AssemblyReference.cache
