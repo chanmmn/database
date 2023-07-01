@@ -1,0 +1,8 @@
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDB\bin\Debug\ConsAppUnitTestDB.exe.config
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDB\bin\Debug\ConsAppUnitTestDB.exe
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDB\bin\Debug\ConsAppUnitTestDB.pdb
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDB\obj\Debug\ConsAppUnitTestDB.csproj.AssemblyReference.cache
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDB\obj\Debug\ConsAppUnitTestDB.csproj.SuggestedBindingRedirects.cache
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDB\obj\Debug\ConsAppUnitTestDB.csproj.CoreCompileInputs.cache
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDB\obj\Debug\ConsAppUnitTestDB.exe
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDB\obj\Debug\ConsAppUnitTestDB.pdb

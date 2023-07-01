@@ -1,0 +1,87 @@
+25/12/2022 5:49:44 PM	This log contains information about the import schema operation into project 'DatabaseNW' on computer 'LAPTOP-MING' by user 'chanmm'.
+25/12/2022 5:49:44 PM	Import of database schema has started.
+25/12/2022 5:49:50 PM	Gathering database credentials
+25/12/2022 5:49:50 PM	Gathering database options
+25/12/2022 5:49:50 PM	Gathering generic database scoped configuration option
+25/12/2022 5:49:50 PM	Gathering users
+25/12/2022 5:49:50 PM	Gathering roles
+25/12/2022 5:49:50 PM	Gathering application roles
+25/12/2022 5:49:50 PM	Gathering role memberships
+25/12/2022 5:49:50 PM	Gathering filegroups
+25/12/2022 5:49:50 PM	Gathering full-text catalogs
+25/12/2022 5:49:50 PM	Gathering assemblies
+25/12/2022 5:49:50 PM	Gathering certificates
+25/12/2022 5:49:50 PM	Gathering asymmetric keys
+25/12/2022 5:49:50 PM	Gathering symmetric keys
+25/12/2022 5:49:50 PM	Gathering encrypted symmetric keys
+25/12/2022 5:49:50 PM	Gathering schemas
+25/12/2022 5:49:50 PM	Gathering XML schema collections
+25/12/2022 5:49:50 PM	Gathering user-defined data types
+25/12/2022 5:49:50 PM	Gathering user-defined types
+25/12/2022 5:49:50 PM	Gathering table types
+25/12/2022 5:49:50 PM	Gathering unique keys for table types
+25/12/2022 5:49:50 PM	Gathering primary keys for table types
+25/12/2022 5:49:50 PM	Gathering indexes for table types
+25/12/2022 5:49:50 PM	Gathering check constraints for table types
+25/12/2022 5:49:50 PM	Gathering default constraints for table types
+25/12/2022 5:49:50 PM	Gathering partition functions
+25/12/2022 5:49:50 PM	Gathering partition schemes
+25/12/2022 5:49:50 PM	Gathering functions
+25/12/2022 5:49:50 PM	Gathering encrypted functions
+25/12/2022 5:49:50 PM	Gathering aggregates
+25/12/2022 5:49:51 PM	Gathering procedures
+25/12/2022 5:49:51 PM	Gathering encrypted procedures
+25/12/2022 5:49:51 PM	Gathering tables
+25/12/2022 5:49:51 PM	Gathering primary keys
+25/12/2022 5:49:51 PM	Gathering unique constraints
+25/12/2022 5:49:51 PM	Gathering foreign keys
+25/12/2022 5:49:51 PM	Gathering default constraints
+25/12/2022 5:49:51 PM	Gathering check constraints
+25/12/2022 5:49:51 PM	Gathering views
+25/12/2022 5:49:51 PM	Gathering encrypted views
+25/12/2022 5:49:51 PM	Gathering indexes
+25/12/2022 5:49:52 PM	Gathering statistics
+25/12/2022 5:49:52 PM	Gathering full-text index stoplists
+25/12/2022 5:49:52 PM	Gathering search property lists
+25/12/2022 5:49:52 PM	Gathering search properties
+25/12/2022 5:49:52 PM	Gathering full-text indexes
+25/12/2022 5:49:52 PM	Gathering column store indexes
+25/12/2022 5:49:52 PM	Gathering spatial indexes
+25/12/2022 5:49:52 PM	Gathering XML indexes
+25/12/2022 5:49:52 PM	Gathering Selective XML indexes
+25/12/2022 5:49:52 PM	Gathering encrypted triggers
+25/12/2022 5:49:52 PM	Gathering triggers
+25/12/2022 5:49:52 PM	Gathering encrypted and clr ddl triggers
+25/12/2022 5:49:52 PM	Gathering ddl triggers
+25/12/2022 5:49:52 PM	Creating edge constraints
+25/12/2022 5:49:52 PM	Gathering synonyms
+25/12/2022 5:49:52 PM	Gathering defaults
+25/12/2022 5:49:52 PM	Gathering data constraint uddt bindings
+25/12/2022 5:49:52 PM	Gathering rules
+25/12/2022 5:49:52 PM	Gathering data constraint uddt bindings
+25/12/2022 5:49:52 PM	Gathering message types
+25/12/2022 5:49:52 PM	Gathering queues
+25/12/2022 5:49:52 PM	Gathering contracts
+25/12/2022 5:49:52 PM	Gathering services
+25/12/2022 5:49:52 PM	Gathering event notifications
+25/12/2022 5:49:52 PM	Gathering remote service bindings
+25/12/2022 5:49:52 PM	Gathering broker priorities
+25/12/2022 5:49:52 PM	Gathering signatures
+25/12/2022 5:49:52 PM	Gathering data compression options
+25/12/2022 5:49:52 PM	Gathering sequence types
+25/12/2022 5:49:52 PM	Gathering security policies
+25/12/2022 5:49:52 PM	Gather column encryption keys
+25/12/2022 5:49:52 PM	Gathering column master keys
+25/12/2022 5:49:52 PM	Gathering external data sources
+25/12/2022 5:49:52 PM	Gathering external file formats
+25/12/2022 5:49:52 PM	Gathering external tables
+25/12/2022 5:49:52 PM	Gathering extended properties
+25/12/2022 5:49:52 PM	Gathering assemblies
+25/12/2022 5:49:52 PM	Gathering credentials
+25/12/2022 5:49:52 PM	Gathering logins
+25/12/2022 5:49:52 PM	Gathering server audits
+25/12/2022 5:49:53 PM	Scanning project for duplicate elements
+25/12/2022 5:49:53 PM	Finished duplicate element processing
+25/12/2022 5:49:53 PM	Finished importing database.
+25/12/2022 5:49:53 PM	A summary of the import was saved to the following location: D:\test\other\Training\DatabaseNW\DatabaseNW\Import Schema Logs\DatabaseNW_20221225094944.log
+25/12/2022 5:49:53 PM	Click Finish to continue...

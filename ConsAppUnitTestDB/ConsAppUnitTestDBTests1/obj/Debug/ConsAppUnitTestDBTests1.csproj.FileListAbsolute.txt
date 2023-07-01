@@ -1,0 +1,11 @@
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDBTests1\bin\Debug\ConsAppUnitTestDBTests1.dll
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDBTests1\bin\Debug\ConsAppUnitTestDBTests1.pdb
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDBTests1\bin\Debug\ConsAppUnitTestDB.exe
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDBTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDBTests1\bin\Debug\ConsAppUnitTestDB.pdb
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDBTests1\bin\Debug\ConsAppUnitTestDB.exe.config
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDBTests1\obj\Debug\ConsAppUnitTestDBTests1.csproj.AssemblyReference.cache
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDBTests1\obj\Debug\ConsAppUnitTestDBTests1.csproj.CoreCompileInputs.cache
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDBTests1\obj\Debug\ConsAppUnitTestDBTests1.csproj.CopyComplete
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDBTests1\obj\Debug\ConsAppUnitTestDBTests1.dll
+C:\test\other\Training\ConsAppUnitTestDB\ConsAppUnitTestDBTests1\obj\Debug\ConsAppUnitTestDBTests1.pdb
