@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppMSSQLToExcel", "ConAppMSSQLToExcel\ConAppMSSQLToExcel.csproj", "{CE5575C3-8E0C-4DCD-989E-95F7803A6BA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE5575C3-8E0C-4DCD-989E-95F7803A6BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5575C3-8E0C-4DCD-989E-95F7803A6BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5575C3-8E0C-4DCD-989E-95F7803A6BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5575C3-8E0C-4DCD-989E-95F7803A6BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACC42760-213B-497B-9D49-A1781DDCB525}
+	EndGlobalSection
+EndGlobal
