@@ -30,7 +30,7 @@ class Program
                 string tableName = reader.GetString(0);
                 string columnName = reader.GetString(1);
 
-                command1.CommandText = $"SELECT * FROM {tableName} WHERE {columnName} LIKE '%{searchString}%'";
+                command1.CommandText = $"SELECT * FROM [{tableName}] WHERE [{columnName}] LIKE '%{searchString}%'";
 
                 SqlDataReader innerReader = command1.ExecuteReader();
 
