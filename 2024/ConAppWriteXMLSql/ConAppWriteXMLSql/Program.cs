@@ -8,7 +8,7 @@ namespace ConAppWriteXMLSql
         {
             string xmlFilePath = "XMLFileRemoveUTF8.xml";
             string connectionString = "Server=.;Database=poc;Integrated Security=True;TrustServerCertificate=true";
-            int id = 1;
+            int id = 2;
 
             // Read the XML file
             string xmlContent = File.ReadAllText(xmlFilePath);

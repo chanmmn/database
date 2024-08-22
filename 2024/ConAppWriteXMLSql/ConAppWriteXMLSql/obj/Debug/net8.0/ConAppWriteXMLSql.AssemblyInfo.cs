@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConAppWriteXMLSql")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36017c6e6fdbb3bd674f7507ae284ab7d8df15b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConAppWriteXMLSql")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConAppWriteXMLSql")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

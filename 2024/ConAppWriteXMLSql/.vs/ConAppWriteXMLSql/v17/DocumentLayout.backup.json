@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\test\\other\\2004\\ConAppWriteXMLSql\\",
+  "WorkspaceRootPath": "C:\\GitHub\\database\\2024\\ConAppWriteXMLSql\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4E4F187-2C14-4EC8-83C6-FFAC51B8CB94}|ConAppWriteXMLSql\\ConAppWriteXMLSql.csproj|c:\\test\\other\\2004\\conappwritexmlsql\\conappwritexmlsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4E4F187-2C14-4EC8-83C6-FFAC51B8CB94}|ConAppWriteXMLSql\\ConAppWriteXMLSql.csproj|c:\\github\\database\\2024\\conappwritexmlsql\\conappwritexmlsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4E4F187-2C14-4EC8-83C6-FFAC51B8CB94}|ConAppWriteXMLSql\\ConAppWriteXMLSql.csproj|solutionrelative:conappwritexmlsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\test\\other\\2004\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\database\\2024\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\Program.cs",
               "RelativeDocumentMoniker": "ConAppWriteXMLSql\\Program.cs",
-              "ToolTip": "C:\\test\\other\\2004\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\Program.cs*",
+              "ToolTip": "C:\\GitHub\\database\\2024\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\Program.cs*",
               "RelativeToolTip": "ConAppWriteXMLSql\\Program.cs*",
-              "ViewState": "AgIAAAUAAABsZmZmZiYuwAkAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAABsZmZmZiYuwAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T16:35:36.644Z",
               "EditorCaption": ""

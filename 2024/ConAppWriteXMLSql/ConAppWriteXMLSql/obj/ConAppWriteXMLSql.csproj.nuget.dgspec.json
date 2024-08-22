@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\test\\other\\2004\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\ConAppWriteXMLSql.csproj": {}
+    "C:\\GitHub\\database\\2024\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\ConAppWriteXMLSql.csproj": {}
   },
   "projects": {
-    "C:\\test\\other\\2004\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\ConAppWriteXMLSql.csproj": {
+    "C:\\GitHub\\database\\2024\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\ConAppWriteXMLSql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\test\\other\\2004\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\ConAppWriteXMLSql.csproj",
+        "projectUniqueName": "C:\\GitHub\\database\\2024\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\ConAppWriteXMLSql.csproj",
         "projectName": "ConAppWriteXMLSql",
-        "projectPath": "C:\\test\\other\\2004\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\ConAppWriteXMLSql.csproj",
+        "projectPath": "C:\\GitHub\\database\\2024\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\ConAppWriteXMLSql.csproj",
         "packagesPath": "C:\\Users\\starcraft\\.nuget\\packages\\",
-        "outputPath": "C:\\test\\other\\2004\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\obj\\",
+        "outputPath": "C:\\GitHub\\database\\2024\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

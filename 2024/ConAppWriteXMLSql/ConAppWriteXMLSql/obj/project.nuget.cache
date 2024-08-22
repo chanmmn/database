@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5mACWff4nwQ=",
+  "dgSpecHash": "zkYhLTmNqcw=",
   "success": true,
-  "projectFilePath": "C:\\test\\other\\2004\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\ConAppWriteXMLSql.csproj",
+  "projectFilePath": "C:\\GitHub\\database\\2024\\ConAppWriteXMLSql\\ConAppWriteXMLSql\\ConAppWriteXMLSql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\starcraft\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\starcraft\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
